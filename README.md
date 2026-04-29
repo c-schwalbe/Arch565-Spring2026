@@ -67,3 +67,4 @@ This list is in no way exhaustive, but a short list of things I have found along
   - Judi Wang - https://jeudi.wang
   - KVAN1 - https://kvant1.no
   - Brick Visual - https://brickvisual.com/#homestart
+  - **** Ethan Decklerk - https://ethandeclerk.com/
